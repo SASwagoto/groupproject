@@ -11,8 +11,8 @@
     <a href="{{route('homepage')}}" class="logo">
         <img class="h-10" src="assets/images/Logo_black.png" alt="Logo">
     </a>
-    <div class="menu flex items-center justify-end gap-2">
-        <div class="relative flex items-center h-full group">
+    <div class="menu flex items-center justify-end gap-4">
+        {{-- <div class="relative flex items-center h-full group">
             <h2 class="inline-block py-2 px-2">Udemy Business</h2>
             <div class="absolute hidden group-hover:block duration-300 top-10 right-0 bg-white border">
                 <div class="w-80 text-center pt-2 pb-4 px-3">
@@ -29,11 +29,14 @@
                     <button type="button" class="bg-gray-900 w-full text-xl font-bold text-white py-2 mt-3">Try Udemy Business</button>
                 </div>
             </div>
-        </div>
+        </div> --}}
+        <a href="#" class="text-lg">Criminal Lawyer</a>
+        <a href="#" class="text-lg">Corporate Lawyer</a>
+        <a href="#" class="text-lg">Family Lawyer</a>
         
         @if (Route::has('login'))
             @auth
-                <a href="{{ url('/dashboard') }}" class="border border-black flex items-center font-semibold py-2 px-3">Dashboard</a>
+                <a href="{{ url('/dashboard') }}" class="border border-black flex items-center py-2 px-3">Dashboard</a>
             @else
                 <a href="{{ route('login') }}"><button type="button" class="border border-black flex items-center font-semibold py-2 px-3" >Log in</button></a>
 
