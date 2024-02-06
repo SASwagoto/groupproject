@@ -143,7 +143,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -154,7 +154,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -165,7 +165,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -176,7 +176,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -187,7 +187,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -198,7 +198,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -209,7 +209,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
             </div>
@@ -234,7 +234,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -245,7 +245,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -256,7 +256,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -267,7 +267,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -278,7 +278,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -289,7 +289,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -300,7 +300,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
             </div>
@@ -325,7 +325,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -336,7 +336,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -347,7 +347,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -358,7 +358,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -369,7 +369,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -380,7 +380,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
               <div class="swiper-slide border box shadow-lg shadow-[#212339]  overflow-hidden">
@@ -391,7 +391,7 @@
                     <h3 class="text-lg font-semibold duration-200">Shawon Ahemd Swagoto</h3>
                     <h4 class="text-lg">Dhaka, Bangladesh</h4>
                     <h4 class="text-lg">Lawyer Type: Criminal</h4>
-                    <a href="profile.html" class="mt-2 text-black underline">View Profile</a>
+                    <a href="{{route('lawyer_profile')}}" class="mt-2 text-black underline">View Profile</a>
                 </div>
               </div>
             </div>
@@ -414,7 +414,7 @@
                 <h1 class="text-xl font-bold text-white">Imran Hossain</h1>
                 <h4 class="text-lg text-white">Land Lawyer</h4>
                 <h4 class="text-lg text-white">Dhaka, Bangladesh</h4>
-                <a href="profile.html" class="mt-2 text-white underline">View Profile</a>
+                <a href="{{route('lawyer_profile')}}" class="mt-2 text-white underline">View Profile</a>
             </div>
         </div>
         <div class="bg-slate-600 p-2 h-40 flex justify-start gap-3">
@@ -425,7 +425,7 @@
                 <h1 class="text-xl font-bold text-white">Imran Hossain</h1>
                 <h4 class="text-lg text-white">Land Lawyer</h4>
                 <h4 class="text-lg text-white">Dhaka, Bangladesh</h4>
-                <a href="profile.html" class="mt-2 text-white underline">View Profile</a>
+                <a href="{{route('lawyer_profile')}}" class="mt-2 text-white underline">View Profile</a>
             </div>
         </div>
         <div class="bg-slate-600 p-2 h-40 flex justify-start gap-3">
@@ -436,7 +436,7 @@
                 <h1 class="text-xl font-bold text-white">Imran Hossain</h1>
                 <h4 class="text-lg text-white">Land Lawyer</h4>
                 <h4 class="text-lg text-white">Dhaka, Bangladesh</h4>
-                <a href="profile.html" class="mt-2 text-white underline">View Profile</a>
+                <a href="{{route('lawyer_profile')}}" class="mt-2 text-white underline">View Profile</a>
             </div>
         </div>
         <div class="bg-slate-600 p-2 h-40 flex justify-start gap-3">
@@ -447,7 +447,7 @@
                 <h1 class="text-xl font-bold text-white">Imran Hossain</h1>
                 <h4 class="text-lg text-white">Land Lawyer</h4>
                 <h4 class="text-lg text-white">Dhaka, Bangladesh</h4>
-                <a href="profile.html" class="mt-2 text-white underline">View Profile</a>
+                <a href="{{route('lawyer_profile')}}" class="mt-2 text-white underline">View Profile</a>
             </div>
         </div>
         <div class="bg-slate-600 p-2 h-40 flex justify-start gap-3">
@@ -458,7 +458,7 @@
                 <h1 class="text-xl font-bold text-white">Imran Hossain</h1>
                 <h4 class="text-lg text-white">Land Lawyer</h4>
                 <h4 class="text-lg text-white">Dhaka, Bangladesh</h4>
-                <a href="profile.html" class="mt-2 text-white underline">View Profile</a>
+                <a href="{{route('lawyer_profile')}}" class="mt-2 text-white underline">View Profile</a>
             </div>
         </div>
         <div class="bg-slate-600 p-2 h-40 flex justify-start gap-3">
@@ -469,7 +469,7 @@
                 <h1 class="text-xl font-bold text-white">Imran Hossain</h1>
                 <h4 class="text-lg text-white">Land Lawyer</h4>
                 <h4 class="text-lg text-white">Dhaka, Bangladesh</h4>
-                <a href="profile.html" class="mt-2 text-white underline">View Profile</a>
+                <a href="{{route('lawyer_profile')}}" class="mt-2 text-white underline">View Profile</a>
             </div>
         </div>
         <div class="bg-slate-600 p-2 h-40 flex justify-start gap-3">
@@ -480,7 +480,7 @@
                 <h1 class="text-xl font-bold text-white">Imran Hossain</h1>
                 <h4 class="text-lg text-white">Land Lawyer</h4>
                 <h4 class="text-lg text-white">Dhaka, Bangladesh</h4>
-                <a href="profile.html" class="mt-2 text-white underline">View Profile</a>
+                <a href="{{route('lawyer_profile')}}" class="mt-2 text-white underline">View Profile</a>
             </div>
         </div>
         <div class="bg-slate-600 p-2 h-40 flex justify-start gap-3">
@@ -491,7 +491,7 @@
                 <h1 class="text-xl font-bold text-white">Imran Hossain</h1>
                 <h4 class="text-lg text-white">Land Lawyer</h4>
                 <h4 class="text-lg text-white">Dhaka, Bangladesh</h4>
-                <a href="profile.html" class="mt-2 text-white underline">View Profile</a>
+                <a href="{{route('lawyer_profile')}}" class="mt-2 text-white underline">View Profile</a>
             </div>
         </div>
     </div>
