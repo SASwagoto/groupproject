@@ -2,7 +2,7 @@
     <x-slot name="header">
         <div class="flex gap-3">
         <a href="#"><button type="button" class="w-[250px] py-3 px-2 bg-gradient-to-r from-[#FFA06F] to-[#FF5143] uppercase font-brand font-semibold text-white">Add Category </button></a>
-        <a href="#"><button type="button" class="w-[250px] py-3 px-2 bg-gradient-to-r from-[#FFA06F] to-[#FF5143] uppercase font-brand font-semibold text-white">Add Lawer </button></a>
+        <a href="{{route('addlawer')}}"><button type="button" class="w-[250px] py-3 px-2 bg-gradient-to-r from-[#FFA06F] to-[#FF5143] uppercase font-brand font-semibold text-white">Add Lawer </button></a>
         </div>
     </x-slot>
 
