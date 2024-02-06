@@ -31,8 +31,18 @@
             </div>
         </div>
         
-        <button type="button" class="border border-black flex items-center font-semibold py-2 px-3">Log in</button>
-        <button type="button" class="border border-black flex items-center bg-black text-white font-semibold py-2 px-3">Sign up</button>
+        @if (Route::has('login'))
+                    @auth
+                        <a href="{{ url('/dashboard') }}" class="border border-black flex items-center font-semibold py-2 px-3">Dashboard</a>
+                    @else
+                    <a href="{{ route('login') }}"><button type="button" class="border border-black flex items-center font-semibold py-2 px-3" >Log in</button></a>
+
+                        @if (Route::has('register'))
+                        <a href="{{ route('register') }}"><button type="button" class="border border-black flex items-center bg-black text-white font-semibold py-2 px-3">Sign up</button></a>
+        
+                        @endif
+                    @endauth
+            @endif 
         
     </div>
 </header>
