@@ -8,7 +8,7 @@
     </div>
 </section>
 <header class="py-3 px-20 sticky top-0 w-full flex justify-between z-50 bg-white drop-shadow-lg duration-500">
-    <a href="index.html" class="logo">
+    <a href="{{route('homepage')}}" class="logo">
         <img class="h-10" src="assets/images/Logo_black.png" alt="Logo">
     </a>
     <div class="menu flex items-center justify-end gap-2">
