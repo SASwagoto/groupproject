@@ -10,9 +10,4 @@ class HomeController extends Controller
     {
         return view('frontend.index');
     }
-
-    public function addlawer()
-    {
-        return view('lawer.addlawer');
-    }
 }
