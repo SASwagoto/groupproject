@@ -2,7 +2,11 @@
 
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ProfileController;
+<<<<<<< HEAD
 use App\Http\Controllers\CategoryController;
+=======
+use App\Http\Controllers\LawerController;
+>>>>>>> 50adfda6e44e7344fa26028451f647fd8f428f5d
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -34,5 +38,7 @@ Route::middleware('auth')->group(function () {
 
     
 });
+
+Route::get('/addlawer', [LawerController::class, 'addlawer'])->name('addlawer');
 
 require __DIR__.'/auth.php';
