@@ -28,9 +28,11 @@
 <label for="lcategory">Category:</label><br>
   <select class="w-[400px] rounded-md" name="lcategory" id="lcategory">
   <option value="Select">Select</option>
-  <option value="Criminal Lawyer">Criminal Lawyer</option>
- <option value="Crime Lawyer">Crime Lawyer</option>
- <option value="Honest Lawyer">Honest Lawyer</option>
+  @forelse($categories as $cat)
+  <option value="{{$cat->id}}">{{$cat->category}}</option>
+  @empty
+  <option value="">No Data Found</option>
+  @endforelse
 </select><br>
 
 <label for="ldetails">Details:</label><br>

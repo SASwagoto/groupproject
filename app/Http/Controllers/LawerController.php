@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 use App\Models\Lawer;
+use App\Models\Category;
 use Illuminate\Http\Request;
 
 class LawerController extends Controller
@@ -9,7 +10,8 @@ class LawerController extends Controller
     public function addlawer()
     {
      
-        return view('lawer.addlawer');
+        $categories = Category::all();
+        return view('lawer.addlawer', compact('categories'));
     }
 
     public function store(Request $request) {
