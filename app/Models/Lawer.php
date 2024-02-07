@@ -8,4 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class Lawer extends Model
 {
     use HasFactory;
+
+    protected $fillable = ['lfirm','lname','laddress','lnumber','lemail','ldetails','llanguage','lcategory'];
 }

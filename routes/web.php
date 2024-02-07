@@ -37,5 +37,6 @@ Route::middleware('auth')->group(function () {
 });
 
 Route::get('/addlawer', [LawerController::class, 'addlawer'])->name('addlawer');
+Route::post('/addlawer/create', [LawerController::class, 'store'])->name('store.addlawer');
 
 require __DIR__.'/auth.php';
