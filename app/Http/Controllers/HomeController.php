@@ -10,4 +10,9 @@ class HomeController extends Controller
     {
         return view('frontend.index');
     }
+
+    public function lawyer_profile()
+    {
+        return view('frontend.lawyer_profile');
+    }
 }
